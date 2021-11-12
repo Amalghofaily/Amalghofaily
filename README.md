@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Amalghofaily
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning IOS development
+- 👀 I’m interested in IOS development
 
 <!---
 Amalghofaily/Amalghofaily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
